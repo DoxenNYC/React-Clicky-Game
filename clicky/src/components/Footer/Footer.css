@@ -1,0 +1,21 @@
+.footer{
+	background-color:black;
+	width: 100%;
+	position: relative;
+}
+
+.footer p{
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 15px;
+}
+
+h4 {
+	color: red;
+}
+
+.App-logo {
+	animation: App-logo-spin infinite 20s linear;
+	height: 80px;
+}

@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Metallica",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81-HYwl4syL._SX355_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Megadeth",
+      "image": "http://www.metallipromo.com/images/megadeth/19860322.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iron Maiden",
+      "image": "https://media.udiscovermusic.com/img/artist-thumbnails-homepage/iron-maiden.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Exodus",
+      "image": "https://img.discogs.com/tVVMKLMfeZDGAXNDGMXezia2MtA=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5259050-1388936517-5177.jpeg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Death",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81J4UlYpWaL._SY355_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Slayer",
+      "image": "http://static1.squarespace.com/static/55ccf522e4b0fc9c2b651a5d/55ce6688e4b0a937261c41f5/5a67564f9140b7172818bb6b/1516721933022/Slayer_SquareBanner_VIP_2.jpg?format=1500w"
+    },
+    {
+      "id": 7,
+      "name": "Testament",
+      "image": "https://www.rhino.com/sites/rhino.com/files/styles/article_image/public/testament.png?itok=nZtNInKA"
+    },
+    {
+      "id": 8,
+      "name": "Dream Theater",
+      "image": "https://storage0.dms.mpinteractiv.ro/media/1/1/4728/17691643/1/dream-theater-poster.jpg?width=640"
+    },
+    {
+      "id": 9,
+      "name": "Sepultura",
+      "image": "https://i.pinimg.com/originals/a4/f2/ec/a4f2ec5d99d995afb0a3d864666beb57.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pantera",
+      "image": "https://d9nvuahg4xykp.cloudfront.net/-685636988993603546/-2121038465585725868_thumbnail.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Anthrax",
+      "image": "https://i.pinimg.com/originals/ca/13/9f/ca139f11669f8a7867a454f4617a0d7d.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Nile",
+      "image": "http://www.trebuchet-magazine.com/wp-content/uploads/2014/07/nile.jpg"
+    }
+  ]
