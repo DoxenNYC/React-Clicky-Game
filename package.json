@@ -1,0 +1,8 @@
+{
+  "name": "React-Clicky-Game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DoxenNYC/React-Clicky-Game.git",
+  "author": "DoxenNYC <jrdoxen@gmail.com>",
+  "license": "MIT"
+}
